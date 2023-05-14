@@ -1,5 +1,8 @@
 # Virtual GPT
-## UPLOAD IN PROGRESS...
+
+## CODE AND GAME FILES CAN BE FOUNDS AT 
+https://drive.google.com/drive/folders/1EgcKL3s2E_Gg-BflZGjyN_newW4qruOJ?usp=share_link
+Unity resources are large in size (greater than ~3 GB) which cannot be accomodated by GitHub. Please check the above link for accessing the required files.
 
 **Gamified interaction with some quirky virtual NPCs based on ChatGPT** 
 
