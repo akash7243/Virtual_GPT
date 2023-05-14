@@ -1,4 +1,6 @@
 # Virtual GPT
+## UPLOAD IN PROGRESS...
+
 **Gamified interaction with some quirky virtual NPCs based on ChatGPT** 
 
 Submission to [Warpspeed Generative AI Hackathon 2023](https://warpspeed2023.devfolio.co/overview)
