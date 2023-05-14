@@ -7,6 +7,7 @@ Unity resources are large in size (greater than ~3 GB) which cannot be accomodat
 **Gamified interaction with some quirky virtual NPCs based on ChatGPT** 
 
 Submission to [Warpspeed Generative AI Hackathon 2023](https://warpspeed2023.devfolio.co/overview)
+
 Team Members: Deepthy Rose Jose, Akash Sharma (Team optimus)
 
 Interact with time travelers Ada Lovelace, Charles Babbage, Marie Curie and Leonardo Da Vinci through text-to-text conversations in game! 
